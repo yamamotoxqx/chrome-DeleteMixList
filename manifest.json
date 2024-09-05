@@ -9,7 +9,7 @@
   ],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "ガチアンチミックスリスト"
+    "default_title": "DeleteMixList"
   }, 
   "background": {
     "service_worker": "background.js"
