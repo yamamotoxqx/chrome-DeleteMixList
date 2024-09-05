@@ -3,11 +3,11 @@ document.addEventListener('DOMContentLoaded', function() {
   
     // 保存されている設定を読み込む
     chrome.storage.sync.get('isEnabled', function(data) {
-      toggle.checked = data.isEnabled || false; // デフォルトはオフ
+      toggle.checked = data.isEnabled || true; // デフォルトはおん
     });
   
     toggle.addEventListener('change', function() {
-      // 設定を保存する
+      // 保存
       chrome.storage.sync.set({ isEnabled: this.checked });
     });
   });
