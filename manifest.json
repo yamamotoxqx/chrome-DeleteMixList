@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "ガチアンチミックスリスト",
+  "name": "DeleteMixList",
   "version": "0.1",
   "description": "YouTubeのURLからミックスリスト部分を削除してリダイレクトします。",
   "permissions": [
