@@ -12,6 +12,11 @@ body {
 
 h1 {
   margin-bottom: 20px;
+  color: #ff0000;
+}
+.dics {
+  font-size: 10px;
+  color: #8b8b8b;
 }
 
 .switch {
