@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "DeleteMixList",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "YouTubeのURLからミックスリスト部分を削除してリダイレクトします。",
   "permissions": [
     "storage",
@@ -16,7 +16,7 @@
       "48": "images/icon48.png",
       "128": "images/icon128.png"
     }
-  }, 
+  },
   "background": {
     "service_worker": "background.js"
   },
