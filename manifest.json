@@ -8,14 +8,8 @@
     "webNavigation"
   ],
   "action": {
-    "default_popup": "popup.html",
-    "default_icon": {
-    "16": "images/icon128.jpeg",
-    "32": "images/icon128.jpeg",
-    "48": "images/icon128.jpeg",
-    "128": "images/icon128.jpeg"
-  }
-}, 
+    "default_popup": "popup.html"
+  }, 
   "background": {
     "service_worker": "background.js"
   },
