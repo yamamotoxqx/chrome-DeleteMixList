@@ -20,7 +20,6 @@ youtubeのURLから&list=以降を削除してリダイレクトするChrome拡�
 プライバシー
 ・単一用途の説明
   YouTubeの動画URLからミックスリスト（&list=）部分を自動的に削除し、シンプルな動画再生ページにリダイレクトします。
-
 ・storage が必要な理由
   設定をユーザーのブラウザに保存し、次回起動時にもその設定を維持するために必要です。
 ・webNavigation が必要な理由
@@ -30,6 +29,6 @@ youtubeのURLから&list=以降を削除してリダイレクトするChrome拡�
 
 ツール・拡張機能
 
-Chrome web store:
+Chrome web store: 
 
-https://github.com/yamamotoxqx/chrome-DeleteMixList
+code: https://github.com/yamamotoxqx/chrome-DeleteMixList
