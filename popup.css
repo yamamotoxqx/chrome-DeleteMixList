@@ -7,7 +7,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 200px;
-  background-color: #000000;
+  background-color: #ffffff;
   font-family: sans-serif;
 }
 
@@ -23,7 +23,7 @@ h1 {
   align-items: center;
   height: 100vh;
   font-size: 10px;
-  color: #969696;
+  color: #000000;
 }
 
 /* 新しいスイッチのスタイル */
