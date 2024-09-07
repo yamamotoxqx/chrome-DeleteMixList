@@ -5,7 +5,8 @@
   "description": "YouTubeのURLからミックスリスト部分を削除してリダイレクトします。",
   "permissions": [
     "storage",
-    "webNavigation"
+    "declarativeNetRequest", 
+    "declarativeNetRequestWithHostAccess" 
   ],
   "action": {
     "default_popup": "popup.html",
@@ -23,7 +24,5 @@
   "host_permissions": [
     "https://www.youtube.com/*"
   ],
-
   "author": "yamada"
-
 }
