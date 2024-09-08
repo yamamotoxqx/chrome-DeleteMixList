@@ -1,19 +1,18 @@
 # chrome-DeleteMixList
 
+YouTubeのURLからミックスリスト部分を削除してリダイレクトします。
+
 YouTubeの"あの"ミックスリストをサクッと消し去る！
 
 「この曲、最高！…って、ミックスリストかーい！」
 
-YouTubeあるあるですよね？
-お気に入りの曲を見つけたと思ったら、ミックスリストで延々と違う曲が流れ続ける...。そんなストレスとはもうおさらば！
+YouTubeあるあるですよね？ お気に入りの曲を見つけたと思ったら、ミックスリストで延々と違う曲が流れ続ける...。そんなストレスとはもうおさらば！
 
-この拡張機能を使えば、ミックスリストだろうが何だろうが、ただの動画として再生できちゃいます。
-もう、関係ない曲に邪魔される心配はありません！
+この拡張機能を使えば、ミックスリストだろうが何だろうが、ただの動画として再生できちゃいます。 もう、関係ない曲に邪魔される心配はありません！
 
 シンプルに、好きな曲を、好きな時に。
 
-それがこの拡張機能のモットーです。
-YouTubeライフをもっと快適に、もっと自由に楽しみましょう！
+それがこの拡張機能のモットーです。 YouTubeライフをもっと快適に、もっと自由に楽しみましょう！
 
 youtubeのURLから&list=以降を削除してリダイレクトするChrome拡張機能です。
 
@@ -29,6 +28,6 @@ youtubeのURLから&list=以降を削除してリダイレクトするChrome拡�
 
 ツール・拡張機能
 
-Chrome web store: 
+Chrome web store: https://chromewebstore.google.com/detail/deletemixlist/eimaheefknicbnlfgdpkdnemgmbopmfj?hl=ja&authuser=0
 
 code: https://github.com/yamamotoxqx/chrome-DeleteMixList
