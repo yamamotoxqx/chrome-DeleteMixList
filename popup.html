@@ -1,20 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>ミックスリスト削除</title>
+  <title>DeleteMixList</title>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="popup.css">
 </head>
 <body>
-  <h1>DleteMixList</h1>
+  <!-- ブラウザの強制白枠の内側に、美しい擬似角丸のカードを配置 -->
+  <div class="app-card">
+    <h1>DeleteMixList</h1>
 
-  <input type="checkbox" id="toggleSwitch" />
-  <label for="toggleSwitch"></label>
-  <div class="disc">この拡張機能では[www.youtube.com]のURLに[&list=]が含まれる場合のみ
-    <br>リスト以降を削除してリダイレクトしています。
-    <br>使っていただきありがとうございます:D</div>
+    <div class="switch-container">
+      <input type="checkbox" id="toggleSwitch" />
+      <label for="toggleSwitch"></label>
+    </div>
+
+    <div class="description">
+      <!-- JavaScriptで言語に応じてテキストを自動挿入 -->
+      <p id="desc_text"></p>
+      <p id="thanks_text" class="thanks"></p>
+    </div>
+  </div>
 
   <script src="popup.js"></script>
 </body>
