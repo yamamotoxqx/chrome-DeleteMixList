@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "DeleteMixList"
+  },
+  "appDesc": {
+    "message": "YouTubeのURLからミックスリスト部分を自動で削除してリダイレクトします。"
+  },
+  "descriptionText": {
+    "message": "YouTubeのURLに「&list=RD」が含まれる場合（YouTubeが自動生成したMIXリスト）のみ、自動的にリストを解除してリダイレクトするようになりました。"
+  },
+  "thanksText": {
+    "message": "使っていただきありがとうございます :D"
+  }
+}
