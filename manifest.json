@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "DeleteMixList",
-  "version": "1.0.0",
-  "description": "YouTubeのURLからミックスリスト部分を削除してリダイレクトします。",
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDesc__",
+  "default_locale": "ja",
+  "version": "2.0.0",
   "permissions": [
     "storage",
     "webNavigation"
@@ -23,7 +24,5 @@
   "host_permissions": [
     "https://www.youtube.com/*"
   ],
-
   "author": "yamada"
-
 }
