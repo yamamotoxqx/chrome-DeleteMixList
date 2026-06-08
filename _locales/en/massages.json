@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "DeleteMixList"
+  },
+  "appDesc": {
+    "message": "Automatically removes YouTube Mix playlists from URLs and redirects to normal videos."
+  },
+  "descriptionText": {
+    "message": "If '&list=RD' is included in the YouTube URL, it automatically removes the playlist and redirects."
+  },
+  "thanksText": {
+    "message": "Thank you for using this extension! :D"
+  }
+}
